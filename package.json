@@ -1,0 +1,8 @@
+{
+  "name": "credit-card-2lvl",
+  "scripts": {},
+  "author": "Roman Gudz",
+  "dependencies": {
+    "redom": "^4.0.0"
+  }
+}

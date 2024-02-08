@@ -144,7 +144,8 @@ const cardExpirationDate = str => {
   return str.replace(replace, '$1/');
 }
 
-const svgIconCard = el('svg.ccicon.ccicon', {
+const svgIconCard = el('svg.ccicon', {
+  id: 'ccicon',
   width: '750',
   height: '471',
   viewBox: '0 0 750 471',
